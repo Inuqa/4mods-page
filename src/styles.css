@@ -6,6 +6,7 @@ body {
   margin: 0;
   padding: 0;
   color: white;
+  font-family: 'Roboto', sans-serif;
 }
 
 .header {
@@ -17,6 +18,25 @@ body {
   align-items: center;
 }
 
-.contents {
+.header-img {
+  width: 100%;
+}
 
+.service-btn {
+  background: none;
+  border: none;
+  font-size: 2rem;
+}
+
+.service-slides {
+  background: rgb(242, 242, 228)
+}
+
+.footer {
+  background: rgb(242, 242, 228)
+}
+
+.contact-img {
+  margin: 5px;
+  width: 30%
 }
